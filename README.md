@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-999999?style=flat-square&logo=redux-Saga&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux--saga-999999?style=flat-square&logo=redux-Saga&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant Design&logoColor=white"/>
